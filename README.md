@@ -7,6 +7,7 @@
 **Live artifact:** https://claude.ai/code/artifact/5a3c5361-d40b-4ea8-b1bc-5e98e9e3e128 
 **Repository:** _this repository_
 **One-page concept summary:** `dataforge-concept-summary.pdf` (submitted alongside this repo)
+**Live artifact:** https://neha660.github.io/BDH-Synaptic-Memory/ 
 **Bonus blog post (distinct topic):** `dataforge-blog-post.pdf` — "The Synapse That Never Sleeps," on the biological-memory-consolidation gap in BDH's fast synaptic state, submitted alongside this repo
 
 ---
