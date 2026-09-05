@@ -145,7 +145,7 @@ function App() {
           &ldquo;The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain&rdquo;</a> (arXiv:2509.26507); Pathway,{' '}
           <a href="https://arxiv.org/abs/2608.09888" target="_blank" rel="noreferrer">BDH-CQ: In-Context Learning with Recurrent Latent Reasoning</a> (arXiv:2608.09888); Pathway,{' '}
           <a href="https://pathway.com/research/bdh-explainer" target="_blank" rel="noreferrer">BDH explainer series</a>. Background precursor (outside the 2022&ndash;2026 window, cited for the linear-attention derivation only): Schlag, Irie &amp; Schmidhuber,{' '}
-          <a href="https://arxiv.org/abs/2102.11174" target="_blank" rel="noreferrer">Linear Transformers Are Secretly Fast Weight Programmers</a> (2021). See the README for two further 2022&ndash;2026 papers with per-claim citations.
+          <a href="https://arxiv.org/abs/2102.11174" target="_blank" rel="noreferrer">Linear Transformers Are Secretly Fast Weight Programmers</a> (2021). See the README for three further 2022&ndash;2026 papers with per-claim citations.
         </p>
         <p>Source code, license and disclosures: see the accompanying repository README.</p>
       </footer>
