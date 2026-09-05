@@ -4,11 +4,10 @@
 
 **Team:** AXIOM3
 **Concept:** *Synaptic Plasticity as Short-Term Memory*, paired with *Associative Memory and Fast Weights* (one coherent artifact, one central claim)
-**Live artifact:** https://claude.ai/code/artifact/5a3c5361-d40b-4ea8-b1bc-5e98e9e3e128 
-**Repository:** _this repository_
-**One-page concept summary:** `dataforge-concept-summary.pdf` (submitted alongside this repo)
-**Live artifact:** https://neha660.github.io/BDH-Synaptic-Memory/ 
-**Bonus blog post (distinct topic):** `dataforge-blog-post.pdf` — "The Synapse That Never Sleeps," on the biological-memory-consolidation gap in BDH's fast synaptic state, submitted alongside this repo
+**Live artifact:** https://neha660.github.io/BDH-Synaptic-Memory/ (GitHub Pages; opens without sign-in — confirm this yourself in an incognito window before submitting)
+**Repository:** https://github.com/neha660/BDH-Synaptic-Memory
+**One-page concept summary:** `dataforge-concept-summary.pdf` (included in this submission)
+**Bonus blog post (distinct topic):** `dataforge-blog-post.pdf` — "The Synapse That Never Sleeps," on the biological-memory-consolidation gap in BDH's fast synaptic state (included in this submission)
 
 ---
 
